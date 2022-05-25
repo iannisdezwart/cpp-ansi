@@ -1,0 +1,4 @@
+[package]
+name = "ansi"
+description = "A header-only library for ANSI escape sequences"
+author = "Iannis de Zwart"
